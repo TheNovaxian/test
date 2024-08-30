@@ -1,0 +1,23 @@
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.AssemblyInfoInputs.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.AssemblyInfo.cs
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.sourcelink.json
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.deps.json
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\refint\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryBusLayer\obj\Debug\net8.0\ref\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.deps.json
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.AssemblyInfoInputs.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.AssemblyInfo.cs
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\refint\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryBusLayer\obj\Debug\net8.0\ref\MyBikeFactoryBusLayer.dll

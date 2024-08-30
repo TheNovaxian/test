@@ -1,0 +1,73 @@
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.AssemblyReference.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Form1.resources
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.GenerateResource.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.AssemblyInfoInputs.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.AssemblyInfo.cs
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.sourcelink.json
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.exe
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.deps.json
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.runtimeconfig.json
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryDataLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFa.9ABDD657.Up2Date
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\refint\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.genruntimeconfig.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\ref\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Login.resources
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Properties.Resources.resources
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.exe
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.deps.json
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.runtimeconfig.json
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryDataLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.AssemblyReference.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Form1.resources
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Login.resources
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Properties.Resources.resources
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.GenerateResource.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.AssemblyInfoInputs.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.AssemblyInfo.cs
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFa.9ABDD657.Up2Date
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\refint\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.genruntimeconfig.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\ref\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.exe
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.deps.json
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.runtimeconfig.json
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryClientLayer.pdb
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\bin\Debug\net8.0-windows\MyBikeFactoryDataLayer.pdb
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.AssemblyReference.cache
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Form1.resources
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Login.resources
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.Properties.Resources.resources
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.GenerateResource.cache
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.AssemblyInfoInputs.cache
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.AssemblyInfo.cs
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFa.9ABDD657.Up2Date
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\refint\MyBikeFactoryClientLayer.dll
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.pdb
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\MyBikeFactoryClientLayer.genruntimeconfig.cache
+C:\Users\Shaquille\Desktop\Extended Project\MyBikesFactoryV3\MyBikeFactoryClientLayer\obj\Debug\net8.0-windows\ref\MyBikeFactoryClientLayer.dll

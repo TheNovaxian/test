@@ -1,0 +1,31 @@
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryDataLayer.deps.json
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryDataLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.csproj.AssemblyReference.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.AssemblyInfoInputs.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.AssemblyInfo.cs
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.sourcelink.json
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFa.9C35E370.Up2Date
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\refint\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.pdb
+C:\Users\Shaquille\Desktop\School work\My Bikes Factory\My-Bikes-Factory\MyBikeFactoryDataLayer\obj\Debug\net8.0\ref\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.AssemblyInfoInputs.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.AssemblyInfo.cs
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\refint\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryDataLayer.deps.json
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryDataLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryDataLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.dll
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\bin\Debug\net8.0\MyBikeFactoryBusLayer.pdb
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFactoryDataLayer.csproj.AssemblyReference.cache
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\MyBikeFa.9C35E370.Up2Date
+C:\Users\Shaquille\Desktop\MyBikesFactoryV3\MyBikeFactoryDataLayer\obj\Debug\net8.0\ref\MyBikeFactoryDataLayer.dll

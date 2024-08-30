@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyBikeFactoryBusLayer.Bike">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAEAAAAAAAAAEAAAABAEBAEEBAQCAAUgAgQJIAAE=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="frame" />
+      <Field Name="madeDate" />
+      <Field Name="color" />
+      <Field Name="type" />
+      <Property Name="Type" />
+      <Property Name="Brakes" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="MyBikeFactoryBusLayer.Date">
+    <Position X="0.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAJAAAAAAAAAAAAAAAAAQAAAAEAQAAAAAAAAA=</HashCode>
+      <FileName>Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikeFactoryBusLayer.FatBike">
+    <Position X="6" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAEAAAAAEAAAAAgAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>FatBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyBikeFactoryBusLayer.MountainBike">
+    <Position X="3.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAABAAAAAAEAAAAAAAAAACAAAAAgAAAAAAABAE=</HashCode>
+      <FileName>MountainBike.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="suspension" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="MyBikeFactoryBusLayer.RoadBike">
+    <Position X="1.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAEAAAAAAAAAEAAAAAAAAAAAIAAQAE=</HashCode>
+      <FileName>RoadBike.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyBikeFactoryBusLayer.EnumBikeType">
+    <Position X="0.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAgAAAAAAAACg=</HashCode>
+      <FileName>Bike.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikeFactoryBusLayer.EnumBrakes">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAAEAAACA=</HashCode>
+      <FileName>EnumBrakes.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikeFactoryBusLayer.EnumColor">
+    <Position X="6.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAgAAAAAAAAAAAAAAAABAAAAAAAAAACA=</HashCode>
+      <FileName>EnumColor.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikeFactoryBusLayer.EnumFrameType">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAAEAAIAAAAAAAAASA=</HashCode>
+      <FileName>EnumFrameType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyBikeFactoryBusLayer.EnumSuspension" Collapsed="true">
+    <Position X="3.75" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAAAAgAAAAAAAAgAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>EnumSuspension.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
